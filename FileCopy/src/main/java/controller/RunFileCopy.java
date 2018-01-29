@@ -13,6 +13,7 @@ public class RunFileCopy {
 		File fsd = new File("c:/b_from/");
 		File fdd = new File("c:/b_to/");
 
+		
 //		CopyFilesBetweenDirectories cfbd = new CopyFilesBetweenDirectories(fs, fd);
 		CopyFilesBetweenDirectories cfbdd = new CopyFilesBetweenDirectories(fsd, fdd);
 //		CopyFilesBetweenDirectories cfbd = new CopyFilesBetweenDirectories("c:\\b_from/IMG_0373.jpg", "c:\\b_to/");

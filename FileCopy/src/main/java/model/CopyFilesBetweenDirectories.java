@@ -11,6 +11,7 @@ import java.nio.file.attribute.BasicFileAttributes;
 
 /**
  * 
+ * 
  * @author Fredrik
  * @version Java 1.7
  * Use SimpleFileVisitor to WalkFileTree
